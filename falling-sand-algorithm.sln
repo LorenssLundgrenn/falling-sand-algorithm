@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "falling-sand-algorithm", "falling-sand-algorithm.vcxproj", "{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Debug|x64.ActiveCfg = Debug|x64
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Debug|x64.Build.0 = Debug|x64
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Debug|x86.ActiveCfg = Debug|Win32
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Debug|x86.Build.0 = Debug|Win32
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Release|x64.ActiveCfg = Release|x64
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Release|x64.Build.0 = Release|x64
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Release|x86.ActiveCfg = Release|Win32
+		{BC90BFB5-656B-4D7F-9122-47593C1BC4FC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1E290ACD-6C7C-404F-831F-D91E3016F5A1}
+	EndGlobalSection
+EndGlobal
