@@ -1,10 +1,10 @@
-#.........#
- #.......#
-  #.....#
-   #...#
-    # #
-   #   #
-  #     #
- #       #
-#         #
-###########
+write anything here and 
+the program will simulate 
+the characters like
+individual particles!
+
+
+
+
+
+
