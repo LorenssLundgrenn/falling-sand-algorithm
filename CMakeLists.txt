@@ -24,4 +24,11 @@ target_link_libraries( ${PROJECT_NAME}
     PRIVATE ${EXTLIB_DIR}PDCurses-3.9/wincon/pdcurses.a
 )
 
-configure_file(${ROOT_DIR}in.txt ${BUILD_DIR}in.txt COPYONLY)
+set(INPUT_FILE ${BUILD_DIR}in.txt)
+if(NOT EXISTS ${INPUT_FILE})
+    file( WRITE ${INPUT_FILE} 
+        "write anything here and the program\n"
+        "will simulate the characters as\n"
+        "individual particles\n\n\n\n\n\n"
+    )
+endif()
